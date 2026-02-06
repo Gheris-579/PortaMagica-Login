@@ -254,6 +254,13 @@ Ekzekuton logout-in:
 - sesione PHP
 - `session_regenerate_id(true)`
 
+
+----
+----
+- `http://localhost/phpmyadmin/`
+- `http://localhost/login-site/register.php`
+- `http://localhost/login-site/login.php`
+
 ## SCREEN
 
 <img width="1908" height="940" alt="Immagine 2026-02-06 030938" src="https://github.com/user-attachments/assets/c853499d-9b9f-4503-b2b3-3472a8aba406" />
